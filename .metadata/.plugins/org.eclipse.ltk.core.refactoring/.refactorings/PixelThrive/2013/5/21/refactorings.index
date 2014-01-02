@@ -1,0 +1,14 @@
+1369074930992	Delete element
+1369165698407	Encapsulate field 'size'
+1369165706898	Encapsulate field 'biomeID'
+1369165868767	Encapsulate field 'topLayer'
+1369165880029	Encapsulate field 'secondLayer'
+1369241950483	Rename local variable 'tile'
+1369244550236	Rename method 'getBIomeSize'
+1369416737447	Rename method 'preTick'
+1369428365402	Rename method 'getCraftStack'
+1369480913431	Delete element
+1369492569964	Delete element
+1369492695990	Rename package 'net.PhuckYuToo.PixelThrive.Buffs'
+1369493137112	Encapsulate field 'name'
+1369568002963	Delete element

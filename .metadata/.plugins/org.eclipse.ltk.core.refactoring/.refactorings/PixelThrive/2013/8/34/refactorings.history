@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PixelThrive/res/audio/drill.OGG&apos; to &apos;drill.ogg&apos;" description="Rename resource &apos;drill.OGG&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/audio/drill.OGG" name="drill.ogg" stamp="1377436253542" updateReferences="true"/>
+</session>

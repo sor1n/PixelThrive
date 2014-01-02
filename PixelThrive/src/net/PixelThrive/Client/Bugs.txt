@@ -1,0 +1,21 @@
+- Chests in general
+- High CPU usage sometimes ex. when loading ''Large'' world setting (half fixed?)
+- Jumpscare Day-Night transition
+- Guis seem to tick two times when exiting a world and creating a new one(?) - Not sure about this one
+- Fix liquids
+- soundClip.stop() lags a bit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;net.PixelThrive.Client.biomes.Biome.temperature&apos; in &apos;net.PixelThrive.Client.biomes.Biome&apos;&#x0D;&#x0A;- Original project: &apos;PixelThrive&apos;&#x0D;&#x0A;- Original element: &apos;net.PixelThrive.Client.biomes.Biome.temperature&apos;&#x0D;&#x0A;- Getter method name: &apos;getTemperature&apos;&#x0D;&#x0A;- Setter method name: &apos;setTemperature&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;temperature&apos;" flags="589830" getter="getTemperature" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;net.PixelThrive.Client.biomes{Biome.java[Biome^temperature" insertion="12" setter="setTemperature" stamp="1376207396761" version="1.0" visibility="1"/>
+</session>

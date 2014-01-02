@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.GUI.GUI"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.world.Sky"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.parser.Entity"/>
+<fullyQualifiedTypeName name="java.awt.Graphics"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.entities.Player"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.GUI.MainMenu"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.Render.Fonts"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.Material"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.GUI.Text"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.world.World"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.GUI.Crafting"/>
+<fullyQualifiedTypeName name="java.awt.Point"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.world.WorldGeneration"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.items.ItemTool"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.items.Item"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.awt.image.ImageObserver"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.world.Biome"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.Recipes"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.blocks.Block"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.renders.Texture"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.world.Tile"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.LoadedImage"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.Render"/>
+<fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.items.ItemPotion"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.awt.Graphics2D"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="java.awt.AlphaComposite"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.SpriteSheet"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.Main"/>
+<fullyQualifiedTypeName name="java.util.concurrent.CopyOnWriteArrayList"/>
+<fullyQualifiedTypeName name="net.PhuckYuToo.PixelThrive.items.CraftableStack"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
