@@ -1,8 +1,0 @@
-INDEX VERSION 1.126+H:\Dropbox\PixelThrive\.metadata\.plugins\org.eclipse.jdt.core
-1697886153.index
-1952345997.index
-1299022128.index
-159664984.index
-4108727661.index
-1498219845.index
-4041092966.index
