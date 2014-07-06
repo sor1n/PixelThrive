@@ -1,0 +1,26 @@
+package com.base.pixelthrive;
+
+import com.base.engine.GameObject;
+
+public class GUI extends GameObject
+{
+	public GUI()
+	{
+		
+	}
+	
+	public void input(float delta)
+	{
+		
+	}
+	
+	public void update(float delta)
+	{
+		
+	}
+	
+	public void render()
+	{
+		
+	}
+}

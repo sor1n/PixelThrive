@@ -1,0 +1,14 @@
+package com.base.pixelthrive;
+
+public class GUI 
+{
+	public GUI()
+	{
+		
+	}
+	
+	public void render()
+	{
+		
+	}
+}

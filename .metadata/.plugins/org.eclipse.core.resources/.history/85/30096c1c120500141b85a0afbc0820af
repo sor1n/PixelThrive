@@ -1,0 +1,6 @@
+package com.base.pixelthrive.guis;
+
+public class MainMenu extends GUI
+{
+	
+}

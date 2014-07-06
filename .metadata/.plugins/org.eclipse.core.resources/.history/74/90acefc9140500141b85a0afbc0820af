@@ -1,0 +1,8 @@
+package com.base.engine;
+
+import org.newdawn.slick.TrueTypeFont;
+
+public class Font extends TrueTypeFont
+{
+	
+}

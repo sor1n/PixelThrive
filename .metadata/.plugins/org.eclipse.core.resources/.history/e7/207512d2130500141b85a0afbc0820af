@@ -1,0 +1,19 @@
+package com.base.engine;
+
+public class Colori extends Color
+{
+	public int r, g, b, a;
+
+	public Colori(int r, int g, int b, int a)
+	{
+		this.r = r;
+		this.g = g;
+		this.b = b;
+		this.a = a;
+	}
+	
+	public Colori(int r, int g, int b)
+	{
+		this(r, g, b, 255);
+	}
+}
