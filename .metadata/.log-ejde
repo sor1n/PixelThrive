@@ -7076,3 +7076,5 @@ org.eclipse.core.runtime.CoreException: Install Location does not contain filepr
 15:14:40,485 TRACE [M] Entered checkProjectOptions(); project: PixelThrive_PT
 15:16:52,214 TRACE [M] Entered classPathChanged(); project: PixelThrive_PT
 15:16:52,214 TRACE [M] Entered checkProjectOptions(); project: PixelThrive_PT
+17:59:38,765 DEBUG [I] Bundle [net.rim.ejde] is changing state to Stopping.
+17:59:38,765 DEBUG [C] Property change listener is disabled.
