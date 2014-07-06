@@ -1,1 +1,0 @@
-INDEX VERSION 1.126+C:\Users\ben\Desktop\GameMaker\Dropbox\PixelThrive\.metadata\.plugins\org.eclipse.jdt.core
