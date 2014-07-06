@@ -1,6 +1,0 @@
-package com.base.engine;
-
-public abstract class Color 
-{
-	public Object r, g, b, a;
-}

@@ -1,9 +1,0 @@
-package com.base.pixelthrive;
-
-public class GUI 
-{
-	public void GUI()
-	{
-		
-	}
-}

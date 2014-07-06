@@ -1,8 +1,0 @@
-package com.base.pixelthrive;
-
-import com.base.engine.GameObject;
-
-public class World
-{
-	
-}
